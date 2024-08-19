@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 I am Hakan
 
 <!--
 **hkaraoguz/hkaraoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working as a Senior AI Scientist at [SiloAI(an AMD company)](https://www.silo.ai/) working on building enterprise level LLM applications such as RAG, synthetic data generation. Previously, I was a postdoctoral researcher at [RPL](https://www.kth.se/is/rpl). Since 2007, I have been working with developing AI applications in various fields such as computer vision, NLP and classical machine learning.
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hakan-karaoguz/)
