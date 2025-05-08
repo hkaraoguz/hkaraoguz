@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working as a Staff Machine Learning Engineer at [Aloi]([https://www.silo.ai/](https://www.aloi.law/)) working on building legal workflows using GenAI. Previously, I was a postdoctoral researcher at [RPL](https://www.kth.se/is/rpl). Since 2007, I have been working with developing AI applications in various fields such as computer vision, NLP and classical machine learning.
+🔭 I’m currently working as a Staff Machine Learning Engineer at [Aloi](https://www.aloi.law/) working on building legal workflows using GenAI. Previously, I was a postdoctoral researcher at [RPL](https://www.kth.se/is/rpl). Since 2007, I have been working with developing AI applications in various fields such as computer vision, NLP and classical machine learning.
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hakan-karaoguz/)
